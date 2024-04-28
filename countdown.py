@@ -1,6 +1,5 @@
 # countdown.py
 import time
-from timer_utils import parse_time_input
 
 
 def countdown_timer(total_seconds):
